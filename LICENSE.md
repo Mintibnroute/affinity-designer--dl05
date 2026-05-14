@@ -1,4 +1,4 @@
-# 
+# Affinity Designer for macOS professional Script - real-time preview and smart objects offers the most advanced Affinity Designer for macOS script, with real-time preview and smart
 
 
 
